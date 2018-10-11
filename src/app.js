@@ -1,7 +1,7 @@
 const Peer =  require('peerjs');
 const uid = require('uid');
 const $ = require('jquery');
-const config = {host: 'java5-mmaoysvbxz.now.sh', port: 3000, secure:true, key:'peerjs'}
+const config = {host: 'viitor-wertc.herokuapp.com', port: 443, secure:true, key:'peerjs'}
 
 
 function getPeer(){
